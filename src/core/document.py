@@ -1,5 +1,6 @@
 def create_document(name):
     return {
         "name": name,
-        "layers": []
+        "layers": [],
+        "author": "tools-branch"
     }
