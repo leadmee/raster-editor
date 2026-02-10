@@ -2,5 +2,5 @@ def create_document(name):
     return {
         "name": name,
         "layers": [],
-        "version": "tools"
+        "author": "tools-branch"
     }
